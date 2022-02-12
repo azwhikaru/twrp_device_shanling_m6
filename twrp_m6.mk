@@ -13,7 +13,7 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := m6
-PRODUCT_NAME := omni_m6
+PRODUCT_NAME := twrp_m6
 PRODUCT_BRAND := m6
 PRODUCT_MODEL := m6
 PRODUCT_MANUFACTURER := Shanling
