@@ -1,1 +1,1 @@
-add_lunch_combo omni_vela-eng
+add_lunch_combo twrp_m6-eng
