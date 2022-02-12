@@ -1,0 +1,1 @@
+LOCAL_PATH := device/shanling/m6
